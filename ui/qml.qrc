@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/marker.png</file>
+        <file>FlightPlannerScreen/FlightPlannerScreen.qml</file>
+        <file>FlightPlannerScreen/MapPanel.qml</file>
+        <file>FlightPlannerScreen/WayPointListPanel.qml</file>
+        <file>FlightPlannerScreen/DronesComboBox.qml</file>
+        <file>FlightPlannerScreen/WayPointListViewDelegate.qml</file>
+        <file>Components/StyledButton.qml</file>
+        <file>assets/selectedMarker.png</file>
+        <file>assets/delete.png</file>
+        <file>assets/delete_pressed.png</file>
+        <file>FlightPlannerScreen/ChangeSpeedDialog.qml</file>
+        <file>FlightPlannerScreen/ConfirmBackDialog.qml</file>
+        <file>MainMenuScreen/MainMenuScreen.qml</file>
+        <file>MainMenuScreen/MenuPanel.qml</file>
+        <file>assets/skydioDrone.png</file>
+        <file>assets/aboutIcon.png</file>
+        <file>assets/createIcon.png</file>
+        <file>assets/dronesIcon.png</file>
+        <file>assets/routesIcon.png</file>
+        <file>MainMenuScreen/MenuButton.qml</file>
+        <file>FlightPlannerScreen/RouteNameDialog.qml</file>
+        <file>RoutesScreen/RoutesListPanel.qml</file>
+        <file>RoutesScreen/RoutesMapPanel.qml</file>
+        <file>RoutesScreen/RoutesScreen.qml</file>
+        <file>RoutesScreen/RoutesListViewDelegate.qml</file>
+        <file>DroneDialog/DroneDialog.qml</file>
+        <file>DroneDialog/DronesListViewDelegate.qml</file>
+        <file>DroneDialog/DronesView.qml</file>
+        <file>DroneDialog/AddDroneScreen.qml</file>
+        <file>AboutDialog/AboutDialog.qml</file>
+        <file>assets/github.png</file>
+        <file>assets/linkedin.png</file>
+        <file>assets/youtube.png</file>
+        <file>assets/gmail.png</file>
+        <file>assets/website.png</file>
+    </qresource>
+</RCC>
